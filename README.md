@@ -1,10 +1,7 @@
-guides
-======
+# AppProva - Guides and Styles
 
-Install suspenders
+Here is where you'll find our rules, guides and styles. Every time you feel like you don't know what to do, how to style a method, where to put a class or module, how to indent, etc.
 
-    gem install suspenders
+Please follow the instructions on the files above.
 
-Create Rails application with git repo and Heroku staging and production apps:
-
-    suspenders appname --heroku true --github appprova/appname
+[Versioning](VERSIONING.md)
